@@ -6,11 +6,11 @@
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=SUBHO883&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SUBHO BAG&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/SUBHO BAG?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SUBHO883?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/SUBHO BAG?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/SUBHO883?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
@@ -23,7 +23,7 @@
 ```java
 public class Developer {
 
-    String name = "Subho";
+    String name = "Subho Bag";
 
     String role = "Software Developer";
 
@@ -32,7 +32,7 @@ public class Developer {
     String passion = "Building Modern Web Applications";
 
     String currentlyLearning =
-            "Java + DSA + Full Stack Development";
+            "Java + DSA + Full Stack Develop";
 
     String goal =
             "Software Engineer";
@@ -117,6 +117,32 @@ public class Developer {
 - REST APIs
 - MySQL
 - MongoDB
+- Authentication (JWT)
+-  Middleware
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🗄 Database
+
+- MySQL
+- MongoDB
+
+</td>
+
+<td width="50%">
+
+### ☁️ Tools 
+
+- Git
+- GitHub
+- Linux
+- VS Code
 
 </td>
 
@@ -255,11 +281,11 @@ Clean and Optimized Java Solutions
 
 # 🏅 LeetCode
 
-> Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
+`https://leetcode.com/u/codewith_subho/`
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/codewith_subho/?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
@@ -311,7 +337,7 @@ Clean and Optimized Java Solutions
 
 ### Tech
 
-React • JavaScript • CSS • API
+React • JavaScript • CSS • API • Razorpay 
 
 </td>
 
@@ -331,7 +357,7 @@ React • JavaScript • CSS • API
 
 ### Tech
 
-React • JavaScript
+HTML • CSS • JavaScript
 
 </td>
 
@@ -379,7 +405,7 @@ React • JavaScript
 
 ## Tools
 
-Git • GitHub • VS Code • Postman
+Git • GitHub • VS Code 
 
 ---
 
@@ -421,15 +447,15 @@ Git • GitHub • VS Code • Postman
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bagsubho41@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/subho-bag-89b26a33a/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://subho883.github.io/My-Portfolio-Website/">
 <img src="https://skillicons.dev/icons?i=devto"/>
 </a>
 
@@ -437,12 +463,12 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-# 💬 Quote
+# 💬 Developer Philosophy
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+> **"Code with purpose. Learn continuously. Build solutions that matter."**  
+> — Subho Bag
 
 </div>
 
