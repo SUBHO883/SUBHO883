@@ -472,3 +472,48 @@ If you like my work, don't forget to ⭐ my repositories.
 ### ⭐ "Code • Learn • Build • Repeat"
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SUBHO883/SUBHO883/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/SUBHO883/SUBHO883/output/github-contribution-grid-snake.svg"
+    alt="Snake Animation">
+</picture>
+
+</div>
+
+---
+
+# 💡 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SUBHO883&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00C6FF,50:0072FF,100:8A2BE2"/>
+
+</div>
