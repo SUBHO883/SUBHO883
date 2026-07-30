@@ -42,22 +42,15 @@ public class Developer {
 
 ---
 
-# 🚀 Current Focus
 
-- 💻 Building Full Stack Applications
-- ☕ Mastering Java
-- 📚 Solving LeetCode Problems
-- 🌱 Learning Backend Development
-- 🚀 Improving System Design
-- 🤝 Open Source Contributions
-
----
 
 # 🛠 Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
@@ -81,18 +74,15 @@ public class Developer {
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>a
 
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+<img src="https://skillicons.dev/icons?i=Linux"/>
 </div>
 
 ---
