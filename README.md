@@ -376,7 +376,7 @@ If you like my work, don't forget to ⭐ my repositories.
 
 ---
 
-# 💡 Random Developer Quote
+# 💡 Developer Quote
 
 <div align="center">
 
