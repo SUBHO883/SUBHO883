@@ -8,9 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=SUBHO883&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/SUBHO883?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SUBHO BAG?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/SUBHO883?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/SUBHO BAG?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
@@ -80,9 +80,10 @@ public class Developer {
 
 <img src="https://skillicons.dev/icons?i=docker"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>a
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://skillicons.dev/icons?i=Linux"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </div>
 
 ---
