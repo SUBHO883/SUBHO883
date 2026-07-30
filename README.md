@@ -6,7 +6,7 @@
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=SUBHO BAG&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SUBHO883&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/SUBHO883?logo=github&style=for-the-badge"/>
 
@@ -32,7 +32,7 @@ public class Developer {
     String passion = "Building Modern Web Applications";
 
     String currentlyLearning =
-            "Java + DSA + Full Stack Develop";
+            "Java + DSA + Full Stack Development";
 
     String goal =
             "Software Engineer";
@@ -281,133 +281,14 @@ Clean and Optimized Java Solutions
 
 # 🏅 LeetCode
 
-`https://leetcode.com/u/codewith_subho/`
-
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/codewith_subho/?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/codewith_subho?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
 ---
 
-# 📌 Developer Metrics
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java"/>
-
-<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Keep Building • Keep Learning • Keep Shipping 🚀
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🍔 FOODPRISM
-
-### Modern Food Ordering Platform
-
-### Features
-
-- 🍕 Beautiful UI
-- 🛒 Shopping Cart
-- ❤️ Favorites
-- 🔍 Search
-- 📱 Responsive Design
-- ⚡ Fast Performance
-
-### Tech
-
-React • JavaScript • CSS • API • Razorpay 
-
-</td>
-
-<td width="50%">
-
-## ⚔ Solo Leveling System
-
-### Real Life Productivity App
-
-### Features
-
-- 🎯 Daily Quests
-- ⭐ XP System
-- 📈 Level Progress
-- 🏆 Achievements
-- 🤖 AI Guidance
-
-### Tech
-
-HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Skills
-
-## Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
----
-
-## Tools
-
-Git • GitHub • VS Code 
-
----
 
 # 🏆 Achievements
 
@@ -420,22 +301,6 @@ Git • GitHub • VS Code
 ⭐ DSA Enthusiast
 
 ⭐ Open Source Learner
-
----
-
-# 📅 2026 Roadmap
-
-✅ Learn Spring Boot
-
-⬜ Build 10 Full Stack Projects
-
-⬜ 500+ LeetCode Problems
-
-⬜ Open Source Contributions
-
-⬜ Portfolio Website
-
-⬜ Software Developer Job
 
 ---
 
